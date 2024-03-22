@@ -1,0 +1,1 @@
+insert into hibernate_sequences(sequence_name, next_val) values ('default',0)
